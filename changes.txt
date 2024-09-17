@@ -1,0 +1,17 @@
+CHANGES MADE:
+2. Reworked so that it would send the client data in a new separate function with the correct calculations for retrieving the header and the body in the data
+
+3. Fixed up getting the end of the header from using strstr 2 places after the pointer for start
+
+4. Fixed up the same thing for reading and writing requests
+
+5. Added file descriptor access for that request, and used snprintf for formatting it before sending the message to the client with the new format. Also added a while loop to consistently send body data to the client while it is reading instead of sending only one body message
+
+6. Fixed up so that it would send the correct error messages in handle write and echo for format mistake or the 404 response
+
+7. Fixed up so that it would send the too large error message in handle write and handle echo in checking the size in those triggers
+
+8. Formatted the header and body accordingly with their data values, then rework to constantly update those values while retrieving
+
+9/10. Set up the Epoll system so that it would handle multiple clients correctly -- added the while loop to consistently check for the event trigger whether to add a new client descriptor or to process one that directly called an event for interaction. Added proper deletion of clients that finished processing or no longer needs anything from the server.
+

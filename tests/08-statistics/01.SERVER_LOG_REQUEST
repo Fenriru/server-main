@@ -1,0 +1,165 @@
+REQUEST 0:
+END_OF_REQUEST 0
+---------------------------
+REQUEST 1:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 1
+---------------------------
+REQUEST 2:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 2
+---------------------------
+REQUEST 3:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 3
+---------------------------
+REQUEST 4:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 4
+---------------------------
+REQUEST 5:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 5
+---------------------------
+REQUEST 6:
+GET /ping HTTP/1.1
+
+END_OF_REQUEST 6
+---------------------------
+REQUEST 7:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 7
+---------------------------
+REQUEST 8:
+GET /echo HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 8
+---------------------------
+REQUEST 9:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 9
+---------------------------
+REQUEST 10:
+GET /ping HTTP/1.1
+
+END_OF_REQUEST 10
+---------------------------
+REQUEST 11:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 11
+---------------------------
+REQUEST 12:
+GET /echo HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 12
+---------------------------
+REQUEST 13:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 13
+---------------------------
+REQUEST 14:
+GET /echo HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 14
+---------------------------
+REQUEST 15:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 15
+---------------------------
+REQUEST 16:
+GET /read HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 16
+---------------------------
+REQUEST 17:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 17
+---------------------------
+REQUEST 18:
+GET /echo HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 18
+---------------------------
+REQUEST 19:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 19
+---------------------------
+REQUEST 20:
+GET /tests/05-files/index.html HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 20
+---------------------------
+REQUEST 21:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 21
+---------------------------
+REQUEST 22:
+GET /tests/06-files/index.html HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 22
+---------------------------
+REQUEST 23:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 23
+---------------------------
+REQUEST 24:
+GET /tests/07-error/index.html HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 24
+---------------------------
+REQUEST 25:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 25
+---------------------------
+REQUEST 26:
+GET /tests/07-error/index.html HTTP/1.1
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*
+
+END_OF_REQUEST 26
+---------------------------
+REQUEST 27:
+GET /stats HTTP/1.1
+
+END_OF_REQUEST 27
+---------------------------

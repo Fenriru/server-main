@@ -1,0 +1,246 @@
+RESPONSE 0:
+HTTP/1.1 200 OK
+Content-Length: 66
+
+Requests: 0
+Header bytes: 0
+Body bytes: 0
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 0
+---------------------------
+RESPONSE 1:
+HTTP/1.1 200 OK
+Content-Length: 68
+
+Requests: 1
+Header bytes: 39
+Body bytes: 66
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 1
+---------------------------
+RESPONSE 2:
+HTTP/1.1 200 OK
+Content-Length: 69
+
+Requests: 2
+Header bytes: 78
+Body bytes: 134
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 2
+---------------------------
+RESPONSE 3:
+HTTP/1.1 200 OK
+Content-Length: 70
+
+Requests: 3
+Header bytes: 117
+Body bytes: 203
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 3
+---------------------------
+RESPONSE 4:
+HTTP/1.1 200 OK
+Content-Length: 70
+
+Requests: 4
+Header bytes: 156
+Body bytes: 273
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 4
+---------------------------
+RESPONSE 5:
+HTTP/1.1 200 OK
+Content-Length: 4
+
+pongEND_OF_RESPONSE 5
+---------------------------
+RESPONSE 6:
+HTTP/1.1 200 OK
+Content-Length: 70
+
+Requests: 6
+Header bytes: 233
+Body bytes: 347
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 6
+---------------------------
+RESPONSE 7:
+HTTP/1.1 200 OK
+Content-Length: 50
+
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*END_OF_RESPONSE 7
+---------------------------
+RESPONSE 8:
+HTTP/1.1 200 OK
+Content-Length: 70
+
+Requests: 8
+Header bytes: 311
+Body bytes: 467
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 8
+---------------------------
+RESPONSE 9:
+HTTP/1.1 200 OK
+Content-Length: 4
+
+pongEND_OF_RESPONSE 9
+---------------------------
+RESPONSE 10:
+HTTP/1.1 200 OK
+Content-Length: 71
+
+Requests: 10
+Header bytes: 388
+Body bytes: 541
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 10
+---------------------------
+RESPONSE 11:
+HTTP/1.1 200 OK
+Content-Length: 50
+
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*END_OF_RESPONSE 11
+---------------------------
+RESPONSE 12:
+HTTP/1.1 200 OK
+Content-Length: 71
+
+Requests: 12
+Header bytes: 466
+Body bytes: 662
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 12
+---------------------------
+RESPONSE 13:
+HTTP/1.1 200 OK
+Content-Length: 50
+
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*END_OF_RESPONSE 13
+---------------------------
+RESPONSE 14:
+HTTP/1.1 200 OK
+Content-Length: 71
+
+Requests: 14
+Header bytes: 544
+Body bytes: 783
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 14
+---------------------------
+RESPONSE 15:
+HTTP/1.1 200 OK
+Content-Length: 7
+
+<empty>END_OF_RESPONSE 15
+---------------------------
+RESPONSE 16:
+HTTP/1.1 200 OK
+Content-Length: 71
+
+Requests: 16
+Header bytes: 621
+Body bytes: 861
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 16
+---------------------------
+RESPONSE 17:
+HTTP/1.1 200 OK
+Content-Length: 50
+
+Host: localhost
+User-Agent: curl/XXX
+Accept: */*END_OF_RESPONSE 17
+---------------------------
+RESPONSE 18:
+HTTP/1.1 200 OK
+Content-Length: 71
+
+Requests: 18
+Header bytes: 699
+Body bytes: 982
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 18
+---------------------------
+RESPONSE 19:
+HTTP/1.1 200 OK
+Content-Length: 469
+
+<HTML>
+
+<HEAD>
+
+<TITLE>Your Title Here</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<H1>This is a Header</H1>
+
+<H2>This is a Medium Header</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">support@yourcompany.com</a>.
+
+<P> This is a new paragraph!
+
+<P> <B>This is a new paragraph!</B>
+
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>END_OF_RESPONSE 19
+---------------------------
+RESPONSE 20:
+HTTP/1.1 200 OK
+Content-Length: 72
+
+Requests: 20
+Header bytes: 778
+Body bytes: 1522
+Errors: 0
+Error bytes: 0END_OF_RESPONSE 20
+---------------------------
+RESPONSE 21:
+HTTP/1.1 200 OK
+Content-Length: 73
+
+Requests: 21
+Header bytes: 817
+Body bytes: 1594
+Errors: 1
+Error bytes: 26END_OF_RESPONSE 21
+---------------------------
+RESPONSE 22:
+HTTP/1.1 200 OK
+Content-Length: 73
+
+Requests: 22
+Header bytes: 856
+Body bytes: 1667
+Errors: 2
+Error bytes: 52END_OF_RESPONSE 22
+---------------------------
+RESPONSE 23:
+HTTP/1.1 200 OK
+Content-Length: 73
+
+Requests: 23
+Header bytes: 895
+Body bytes: 1740
+Errors: 3
+Error bytes: 78END_OF_RESPONSE 23
+---------------------------
